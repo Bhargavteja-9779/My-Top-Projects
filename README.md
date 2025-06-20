@@ -1,4 +1,4 @@
-# Top Computer Vision Projects by P N Bhargav Teja
+# My Top ML & Computer Vision Projects by P N Bhargav Teja
 
 I am currently pursuing a B.Tech in Computer Science with a specialization in AI & ML at VIT Vellore. My interests lie in building scalable, real-world solutions in domains such as public safety, forest surveillance, robotics, and automation. Below are some of my best projects in the field of computer vision and AI.
 
@@ -56,5 +56,5 @@ Python, OpenCV, MediaPipe, Arduino (via PyFirmata)
 ## More Projects and Contact
 
 - Website: [bhargavteja.com](https://bhargavteja.com) *(cmd/ctrl + click)*  
-- LinkedIn: [linkedin.com/in/p-n-bhargavteja-5804a7281](https://www.linkedin.com/in/p-n-bhargavteja-5804a7281/) *(cmd/ctrl + click)*  
+- LinkedIn: [linkedin.com/in/p-n-bhargavteja-5804a7281](www.linkedin.com/in/bhargavteja-pn) *(cmd/ctrl + click)*  
 - Email: bhargavteja.pn15@gmail.com
