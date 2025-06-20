@@ -9,6 +9,9 @@ For more details, visit my portfolio website:
 
 ## ForestEar – Environmental Sound Classifier
 
+![Forest-Ear](img1.png)
+
+
 This project focuses on detecting illegal logging activities by classifying forest audio using a deep learning model. The system identifies chainsaw and axe sounds in real-time and raises alerts through a dashboard.
 
 **Tech Stack:**  
@@ -25,6 +28,8 @@ Python, TensorFlow, ESC-50 & UrbanSound8K, Flask, OpenCV
 
 ## CrowdSense-AI – Crowd Detection and Alert System
 
+![CrowdSense-AI](img2.png)
+
 A real-time video analytics system that uses YOLOv8 and OpenCV to detect and track crowds from CCTV or mobile feeds. The system issues alerts when density thresholds are exceeded.
 
 **Tech Stack:**  
@@ -39,6 +44,8 @@ Python, YOLOv8, OpenCV, Flask
 ---
 
 ## Hand Tracking Servo Controller – PUG 2025
+
+![Hand Tracking Servo Controller](img3.png)
 
 This project maps real-time hand gestures to servo motors using webcam input and MediaPipe. Ideal for robotic control and gesture-based interfaces.
 
