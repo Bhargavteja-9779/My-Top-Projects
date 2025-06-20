@@ -1,75 +1,62 @@
 # Top Computer Vision Projects by P N Bhargav Teja
 
-I'm a passionate AI & Robotics enthusiast pursuing B.Tech in Computer Science (AI & ML) at VIT Vellore. I love building impactful, scalable solutions that combine Computer Vision, Real-Time Inference, and Full-Stack Engineering.
+I am currently pursuing a B.Tech in Computer Science with a specialization in AI & ML at VIT Vellore. My interests lie in building scalable, real-world solutions in domains such as public safety, forest surveillance, robotics, and automation. Below are some of my best projects in the field of computer vision and AI.
 
-[Visit My Website](https://bhargavteja.com) _(opens in new tab)_
+For more details, visit my portfolio website:  
+<a href="https://bhargavteja.com" target="_blank">bhargavteja.com</a>
 
 ---
 
 ## ForestEar – Environmental Sound Classifier
 
-**A deep learning-powered AI system to detect illegal logging and environmental anomalies using forest audio recordings.**
+This project focuses on detecting illegal logging activities by classifying forest audio sounds using a deep learning model. The system is capable of identifying chainsaw and axe sounds in real-time and raising alerts through a dashboard.
 
-### Tech Stack:
-- Python, TensorFlow, Keras
-- ESC-50 & UrbanSound8K Datasets
-- Flask Dashboard for Live Inference
-- Matplotlib, NumPy, OpenCV
+**Tech Stack:**  
+Python, TensorFlow, ESC-50 & UrbanSound8K datasets, Flask, OpenCV
 
-###  Demo:
-- [ForestEar Demo #1](https://www.linkedin.com/posts/bhargavteja-pn_ai-sustainability-forestconservation-activity-7341658627612581889-hzXT) _(opens in new tab)_
-- [ForestEar Demo #2](https://www.linkedin.com/posts/bhargavteja-pn_forestear-aiproject-deeplearning-activity-7341659744291471362-TmfJ) _(opens in new tab)_
+**Demo Links:**  
+<a href="https://www.linkedin.com/posts/bhargavteja-pn_ai-sustainability-forestconservation-activity-7341658627612581889-hzXT" target="_blank">LinkedIn Demo 1</a>  
+<a href="https://www.linkedin.com/posts/bhargavteja-pn_forestear-aiproject-deeplearning-activity-7341659744291471362-TmfJ" target="_blank">LinkedIn Demo 2</a>
 
-###  GitHub Repo:
-- [ForestEar GitHub Repository](https://github.com/Bhargavteja-9779/ForestEar-Acoustic-Surveillance-AI-for-Forest-Protection.git) _(opens in new tab)_
+**GitHub Repository:**  
+<a href="https://github.com/Bhargavteja-9779/ForestEar-Acoustic-Surveillance-AI-for-Forest-Protection.git" target="_blank">View on GitHub</a>
 
 ---
 
-##  CrowdSense-AI – Crowd Detection & Alert System
+## CrowdSense-AI – Crowd Detection and Alert System
 
-**A real-time public safety system using YOLOv8 to detect crowd gatherings and issue smart alerts.**
+A real-time video analytics tool that uses YOLOv8 and OpenCV to detect and track crowd gatherings from CCTV or mobile feeds. The system issues alerts when crowd thresholds are exceeded.
 
-###  Tech Stack:
-- YOLOv8, OpenCV, Flask
-- Live Camera Feed
-- Crowd Detection Thresholds
-- Notification Dashboard
+**Tech Stack:**  
+Python, YOLOv8, OpenCV, Flask
 
-###  Demo:
-- [CrowdSense Demo](https://www.linkedin.com/posts/bhargavteja-pn_ai-computervision-crowddetection-activity-7341439619646791681-JVIb) _(opens in new tab)_
+**Demo Link:**  
+<a href="https://www.linkedin.com/posts/bhargavteja-pn_ai-computervision-crowddetection-activity-7341439619646791681-JVIb" target="_blank">LinkedIn Demo</a>
 
-###  GitHub Repo:
-- [CrowdSense GitHub Repository](https://github.com/Bhargavteja-9779/CrowdSense-AI-Crowd-Detection-Alert-System.git) _(opens in new tab)_
+**GitHub Repository:**  
+<a href="https://github.com/Bhargavteja-9779/CrowdSense-AI-Crowd-Detection-Alert-System.git" target="_blank">View on GitHub</a>
 
 ---
 
-###  Hand Tracking Servo Controller – PUG 2025
+## Hand Tracking Servo Controller – PUG 2025
 
-**Controls servo motors in real-time using hand gestures captured via webcam, built for robotic hand tracking systems.**
+This project maps real-time hand movements to servo motors using a webcam and MediaPipe. It’s designed for robotic control and gesture-based interfaces.
 
-###  Tech Stack:
-- Python, OpenCV, MediaPipe
-- PyFirmata (Arduino)
-- Real-time gesture to servo mapping
+**Tech Stack:**  
+Python, OpenCV, MediaPipe, Arduino (via PyFirmata)
 
-###  Demo:
-- [Hand Tracking Demo](https://www.linkedin.com/posts/bhargavteja-pn_computervision-opencv-ai-activity-7341348439001047041-88Dl) _(opens in new tab)_
+**Demo Link:**  
+<a href="https://www.linkedin.com/posts/bhargavteja-pn_computervision-opencv-ai-activity-7341348439001047041-88Dl" target="_blank">LinkedIn Demo</a>
 
-###  GitHub Repo:
-- [Servo Control GitHub Repository](https://github.com/Bhargavteja-9779/Hand-Tracking-WithServos-PUG-2025-.git) _(opens in new tab)_
+**GitHub Repository:**  
+<a href="https://github.com/Bhargavteja-9779/Hand-Tracking-WithServos-PUG-2025-.git" target="_blank">View on GitHub</a>
 
 ---
 
-##  More Projects
+## More Projects and Contact
 
-Explore more on my personal website:
-🔗 [bhargavteja.com](https://bhargavteja.com) _(opens in new tab)_
+To explore more of my work or connect with me:
 
----
-
-##  Let's Connect
-
-- 📧 bhargavteja.pn15@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/p-n-bhargavteja-5804a7281/) _(opens in new tab)_
-- 🌍 [Website](https://bhargavteja.com) _(opens in new tab)_
-
+- Website: <a href="https://bhargavteja.com" target="_blank">bhargavteja.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/p-n-bhargavteja-5804a7281/" target="_blank">linkedin.com/in/p-n-bhargavteja-5804a7281</a>  
+- Email: bhargavteja.pn15@gmail.com
